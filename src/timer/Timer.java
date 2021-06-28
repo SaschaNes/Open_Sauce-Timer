@@ -1,8 +1,8 @@
 /*
         A Open Sauce Timer written in Java
-        File: Timer.java
+        File:   Timer.java
         Author: Sascha Nesterovic
-        Date: 09. September 2019
+        Date:   June 2021
         - Written in Netbeans 8.2 with Java 1.8 Update 112
 */
 
